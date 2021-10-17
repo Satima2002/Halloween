@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kang - The Simpsons Fan Art
+* source:	https://sketchfab.com/3d-models/kang-the-simpsons-fan-art-8c788e53737940eb809fa32d101c9c7e
+* author:	jason.lp.davis (https://sketchfab.com/jason.lp.davis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kang - The Simpsons Fan Art" (https://sketchfab.com/3d-models/kang-the-simpsons-fan-art-8c788e53737940eb809fa32d101c9c7e) by jason.lp.davis (https://sketchfab.com/jason.lp.davis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
